@@ -1,0 +1,588 @@
+img{max-width: 100%;}
+
+.header-div{
+    z-index: 999;
+}
+
+
+
+.header-logo {
+    line-height: 71px;
+}
+.header-logo img {
+    width: 35%;
+}
+
+.header-menu ul {
+    margin-bottom: 0;
+}
+.header-menu ul li {
+    display: inline-block;
+    line-height: 70px;
+    margin-left: -5px;
+    position: relative;
+}
+.header-menu ul li:first-child{
+    color: red;
+}
+.header-menu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0 19px;
+    text-transform: uppercase;
+    color: black;
+    transition: .5s;
+    font-weight: 600;
+}
+.header-menu ul li a:hover {
+    color: rgb(245, 8, 8);
+}
+
+/* end header */
+
+
+.first-banner-section{
+    background: url(./img/restaurant_title_bg.jpg) no-repeat ;
+    background-size: cover;
+}
+
+.bottom-content a{
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 2px solid #b79e6e;
+    color: #b79e6e;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 20px;
+    transition: .5s;
+}
+.bottom-content a:hover{
+    background: #000;
+}
+
+/* end first banner  */
+
+.second-banner-section{
+    background: url(./img/restaurant_post_bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+.second-banner-text h1{
+   color: #b59a65;
+}
+.second-banner-text a{
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 2px solid #b79e6e;
+    color: #8a8987;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: .5s;
+    font-weight: 300;
+}
+.second-banner-text a:hover{
+    color:  #b59a65;
+}
+
+/* end second banner */
+
+.third-banner-section{
+    background: url(./img/restaurant_blackwood_bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+.third-banner-section p{
+    color: #c6b089;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+/* end third banner */
+
+
+.fourth-banner-section{
+    background: url(./img/restaurant_post_bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+.fourth-left-content h2{
+    font-size: 115px;
+    color: #c6b089;
+    font-weight: 300;
+}
+.fourth-left-content h4 {
+    color: white;
+    font-weight: 300;
+    font-size: 40px;
+}
+
+.fourth-left-content-bottom p{
+    color: #c6b089;
+    font-size: 18px;
+}
+.imgbb{height: 810px;}
+
+/* end fourth banner */
+
+.fifth-banner-section{
+    background: url(./img/restaurant_blackwood_bg.jpg) no-repeat;
+    background-size: cover;
+}
+.fff{
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.fifth-banner-third-content h3 {
+    color: #c5af88;
+    font-size: 50px;
+    font-weight: 300;
+}
+.fifth-banner-third-content h4 {
+    color: #fff;
+    font-size: 24px;
+    margin-top: 55px;
+    line-height: 35px;
+}
+.ppp {
+    font-size: 16px;
+}
+
+.gxx img{
+    margin-left: 68px;
+}
+
+.fifth-banner-third-content .dddd {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: #535353;
+    display: inline-block;
+    margin: 0 5px;
+        margin-top: 0px;
+    margin-top: 30px;
+}
+
+.ddd{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: #c6b089;
+    display: inline-block;
+    margin: 0 5px;
+        margin-top: 0px;
+    margin-top: 30px;
+}
+
+/* end fifth banner */
+
+.first-sixth-banner-text span{
+    font-size: 38px;
+    font-weight: 300;
+}
+.first-sixth-banner-text h3 {
+    font-size: 90px;
+    font-weight: 300;
+    color: #c6b089;
+}
+.first-sixth-banner-text h6 {
+    font-size: 37px;
+    font-weight: 100;
+    color: #000;
+}
+
+.sixth-banner-section{
+    background: url(./img/restaurant_post_bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.second-sixth-banner-text a{
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid black;
+    color: #8a8987;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: .5s;
+    font-weight: 300;
+}
+.second-sixth-banner-text a:hover{
+    background: #000;
+    color: #c6b089;
+}
+
+/* end sixth banner */
+
+.seven-banner-section{
+    background: url(./img/restaurant_blackwood_bg.jpg) no-repeat;
+    background-size: cover;
+}
+.sixth-banner-section-text {
+    border: 1px solid #ddd;
+    padding: 50px 0;
+    border-radius: 125px 125px 0 0;
+}
+.ptptpt{
+    color: #c6b089;
+}
+.sixth-banner-section-text h3{
+    font-size: 20px;
+}
+
+.imggg{
+    width: 50%;
+}
+
+/* end seven banner */
+
+.eight-banner-section{
+    background: url(./img/restaurant_service_bg.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.choosing-card{
+    position: relative;
+    z-index: 1;
+    background: #fff;
+}
+.choosing-card-bottom:hover{
+    background: #000;
+    color: white;
+}
+
+.choosing::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    color: white;
+    background: rgb(0, 0, 0);
+    z-index: -1;
+    transition: .3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.choosing-card:hover .choosing::before{
+    opacity: 1;
+    visibility: visible;
+}
+.choosing-card:hover .aa{
+    color: red ;
+}
+.choosing-card:hover .aaa{
+    color: white ;
+}
+
+.choosing-icon {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    background: red;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+    border: 2px solid transparent;
+    transition: .5s;
+}
+.ptttp {
+    margin: 6px -9px;
+}
+
+.choosing-card:hover .choosing-icon{
+    background: white;
+    color: red;
+    border: 2px solid red ;
+}
+
+/* end eight banner */
+
+
+.nine-banner-section{
+    background: url(./img/restaurant_blackwood_bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.nine-banner-text h4{
+    color: #c5944d;
+}
+.nine-banner-text h2 {
+    color: #fff;
+    font-size: 100px;
+    font-weight: 300;
+}
+
+.pbbpsd{margin-top: 300px;}
+
+/* end nine banner */
+
+.ten-banner-section{
+    background: url(./img/restaurant_blackwood_bg.jpg) no-repeat;
+    background-size: cover;
+}
+.shopon{
+    position: relative;
+    cursor: pointer;
+    margin-left: 0;
+}
+
+.members-hover-div {
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(238, 70, 70, 0.76);
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+    font-weight: 600;
+    color: snow;
+    transition: .3s;
+}
+
+.shopon:hover .members-hover-div{
+    opacity: 1;
+    visibility: visible;
+}
+
+.icon-div i {
+    margin:  15px;
+    font-size: 28px;
+    margin-bottom: 110px;
+    transition: .4s;
+}
+.icon-div i:hover {
+    transform: scale(1.5);
+}
+
+.faka-faka-div {
+    content: "";
+    top: 120px;
+    left: 25px;
+    width: 80%;
+    height: 2px;
+    background: white;
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: .5s;
+    z-index: 2
+}
+
+.shopon:hover .faka-faka-div{
+    opacity: 1;
+    visibility: visible;
+    transform: scaleX(1);
+}
+.ten-section-bottom{
+    height: 6px ;
+    width: 100%;
+    border: 1px solid #b79e6e;
+}
+.ten-section-bottom-button {
+    margin-top: -63px;
+}
+.ten-section-bottom-button a{
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 2px solid #b79e6e;
+    color: #8a8987;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: .5s;
+    font-weight: 300;
+    background: #242424;
+}
+.ten-section-bottom-button a:hover{
+    background: #b79e6e;
+    color: black;
+}
+
+/* end ten banner */
+
+
+.card-body .aadd{
+    display: block;
+    font-size: 30px;
+    padding: 10px 0;
+}
+.card-body span {
+    margin: 30px 40px;
+}
+
+.button-div-11 {
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    margin: auto;
+    display: inline-block;
+    background: #353535;
+    border-radius: 7px;
+}
+
+.acfgs {
+    font-size: 24px;
+    margin: 10px;
+    color: white;
+}
+.acfgsss {
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 2px solid red;
+    padding: 5px 15px;
+    font-size: 16px;
+    transition: .5s;
+    font-weight: 600;
+    color: red;
+}
+
+.eleven-banner-section{
+    background: url(./img/restaurant_post_bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+/* end eleven banner */
+
+.twelve-banner-section{
+    background: url(./img/restaurant_contact_information.jpg) no-repeat;
+    background-size: cover;
+}
+.choosing-card-2{
+    position: relative;
+    z-index: 1;
+    border: 1px solid #505050;
+    background: rgba(14, 13, 13, 0.61);
+}
+.aaabb{
+    color: white;
+    text-transform: uppercase;
+}
+.choosing-card-2:hover .aaabb{
+    color: red ;
+}
+.aabaa{
+    color: darkgray;
+}
+.choosing-card-2:hover .aabaa{
+    color: white ;
+}
+
+.choosing-icon-2 {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    background: red;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+    border: 2px solid transparent;
+    transition: .5s;
+    margin-top: -75px;
+}
+
+.choosing-card-2:hover .choosing-icon-2{
+    background: white;
+    color: red;
+    border: 2px solid red ;
+}
+
+/* end twelve banner */
+
+
+.thirten-banner-section{
+    background: url(./img/restaurant_blackwood_bg.jpg) no-repeat;
+    background-size: cover;
+}
+.bgggg{
+    background: rgba(8, 8, 8, 0.541);
+}
+.hhh{
+    height: 300px;
+}
+
+.bottom-13 a{
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #b79e6e;
+    color: #8a8987;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: .5s;
+    font-weight: 300;
+}
+
+ /* end thirten banner */
+ .footer-section span{
+     color: darkgray;
+ }
+.footer-section span a{
+    text-decoration: none;
+    color: red;
+    margin-left: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.footer-section span a:hover{
+    border-bottom: 1px solid red;
+}
+.footer-section ul {
+    text-align: center;
+}
+.footer-section ul li{
+    display: inline-block;
+    border-left: 2px solid #ddd;
+    
+}
+.footer-section ul li:first-child {
+    border-left: none;
+    
+}
+.footer-section ul li a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 15px;
+    color: darkgray;
+    transition: .5s;
+}
+.footer-section ul li a:hover{
+    color: red;
+}
+
+.rfrf a{
+    margin: 0 8px;
+    color: darkgray;
+    transition: .5s;
+}
+.rfrf a:hover{
+    color: #00def8;
+}
+
+.footer-to-top-icon{
+    position: absolute;
+    top: 90%;
+    left: 95%;
+    position: fixed;
+    width: 180px;
+    z-index: 999;
+}
+.footer-to-top-icon i {
+    color: white;
+    font-size: 20px;
+    background: black;
+    padding: 8px 10px;
+    border-radius: 5px
+}
+
+
